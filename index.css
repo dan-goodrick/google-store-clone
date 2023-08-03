@@ -1,0 +1,21 @@
+#main-header nav {
+  display: inline-block;
+  width:49%;
+  word-spacing:10px;
+}
+
+#main-header nav img{
+  height:30px;
+  width:30px;
+}
+
+#icon-container {
+  display: inline-block;
+  width:49%;
+  text-align:right;
+  
+}
+#icon-container img {
+  height:30px;
+  display: inline-block;
+}
